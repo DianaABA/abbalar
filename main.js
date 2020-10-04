@@ -62,7 +62,7 @@ sr.reveal('.skills__name', {distance: '20px', delay: 50, interval: 100})
 sr.reveal('.skills__img', {delay: 200})
 
 /*SCROLL PORTFOLIO*/
-sr.reveal('.portfolio__img', {interval: 100})
+sr.reveal('.responsive-video', {interval: 100})
 
 /*SCROLL CONTACT*/
 sr.reveal('.contact__subtitle', {})
@@ -218,7 +218,7 @@ function init () {
   
   init()
 
-  // artcorner
+ 
   
   
   
